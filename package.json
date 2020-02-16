@@ -1,7 +1,7 @@
 {
   "name": "reacttodo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple to do list with ReactJS",
   "main": "index.js",
   "scripts": {
     "prod": "webpack --mode production",
@@ -39,6 +39,6 @@
     "webpack-cli": "^3.3.9",
     "webpack-dev-server": "^3.8.2"
   },
-  "author": "",
+  "author": "bk52",
   "license": "ISC"
 }
